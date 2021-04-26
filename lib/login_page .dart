@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
+import 'package:tugas_firebase/first_screen_mail.dart';
 import 'sign_in.dart';
 import 'first_screen.dart';
+import 'first_screen_mail.dart';
 
 class LoginPage extends StatefulWidget {
   @override
@@ -48,7 +50,7 @@ class _LoginPageState extends State<LoginPage> {
                               Navigator.of(context).push(
                                 MaterialPageRoute(
                                   builder: (context) {
-                                    return FirstScreen();
+                                    return FirstScreenEmail();
                                   },
                                 ),
                               );
