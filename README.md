@@ -2,6 +2,13 @@
 
 A new Flutter project.
 
+Hasil Run
+
+![image](https://user-images.githubusercontent.com/70736299/116193004-e07a3c80-a758-11eb-98f6-c9aff461105f.png)
+
+![image](https://user-images.githubusercontent.com/70736299/116193037-ea9c3b00-a758-11eb-8c1a-fff7ca537c2c.png)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
